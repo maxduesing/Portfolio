@@ -34,7 +34,7 @@ Deployed a network-wide DNS-based ad blocking solution with secure remote access
 - **Takeaway:** gained practical experience with networking concepts, DNS resolution, and secure remote access
 
 ### 🔹 Linux Installation on Microsoft Tablet
-Installed and configured Linux on a Microsoft tablet using BIOS-level configuration.
+Installed and configured multiple Linux distros on a Microsoft tablet using BIOS-level configuration.
 
 - **Focus:** Operating systems and hardware-level configuration
 - **What I did:** accessed and modified BIOS/UEFI settings, prepared boot media, and installed Linux on unsupported hardware
